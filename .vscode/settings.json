@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/eb45ad6c-88c6-4c4f-8463-5a1995db069d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ant-space-tours-Gonzalo-Izuzquiza",
+    "appService.deploySubpath": "."
+}
